@@ -16,32 +16,6 @@ import {
   Select,
 } from "antd";
 
-const sDV = (
-  <Drawer size={"200px"} visible={"true"}>
-    <Row layout={"horizontal"}>
-      <Col>В очереди 5 человек</Col>
-    </Row>
-    <Row>
-      <Col>15:00</Col>
-    </Row>
-    <Row layout={"horizontal"}>
-      <Col>Иванов Иван Иванович</Col>
-    </Row>
-    <Row layout={"horizontal"}>
-      <Col>Иванов Иван Иванович</Col>
-    </Row>
-    <Row layout={"horizontal"}>
-      <Col>Иванов Иван Иванович</Col>
-    </Row>
-    <Row layout={"horizontal"}>
-      <Col>Иванов Иван Иванович</Col>
-    </Row>
-    <Row layout={"horizontal"}>
-      <Col>Иванов Иван Иванович</Col>
-    </Row>
-  </Drawer>
-);
-
 export default function App() {
   return (
     <div className="App">

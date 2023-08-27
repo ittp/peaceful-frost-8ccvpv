@@ -4,4 +4,4 @@ import { Button } from "antd";
 
 let db = ({ ctx }) => {};
 
-let buttons = db({ plugin: "" });
+// let buttons = db({ plugin: "" });
